@@ -1,0 +1,773 @@
+[
+  {
+    "date": "2026-11-10 19:54:34.665249",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 20:02:01.865695",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 20:03:27.802583",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 20:10:31.570532",
+    "usuario": "",
+    "accion": "login",
+    "resultado": "fallido",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 22:22:35.281237",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 22:22:55.634692",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "fallido",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-10 22:23:12.640097",
+    "usuario": "",
+    "accion": "login",
+    "resultado": "fallido",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:06:39.001321",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:06:39.007151",
+    "usuario": "user",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 100,
+      "nueva": 99
+    }
+  }
+][
+  {
+    "date": "2026-11-11 16:09:40.122859",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:09:40.124289",
+    "usuario": "user",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 99,
+      "nueva": 99
+    }
+  }
+][
+  {
+    "date": "2026-11-11 16:10:49.108684",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:15:30.803343",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:15:38.019908",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 99,
+      "nueva": 10
+    }
+  }
+][
+  {
+    "date": "2026-11-11 16:18:23.011953",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:19:44.463069",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:50:43.721046",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:53:05.685310",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:53:26.703927",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:54:22.786481",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 16:57:49.457039",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:03:39.459463",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:03:45.573762",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:04:02.243169",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": -1
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:04:15.255488",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:05:42.103815",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:05:46.755953",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:06:13.677183",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:19:59.764675",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:20:04.186392",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:20:14.738719",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": 10
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:20:41.932434",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:21:01.961703",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:21:19.074239",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": -1
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:21:52.602672",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -1,
+      "nueva": -300
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:22:01.665049",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -300,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:23:06.404287",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:23:12.757940",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -300,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:28:36.590894",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:28:44.942053",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": -300,
+      "nueva": 2
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:28:51.520547",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 2,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:29:01.445381",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 2,
+      "nueva": 10
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:33:33.502677",
+    "usuario": "AdminDemo2700!",
+    "accion": "login",
+    "resultado": "fallido",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:33:46.296969",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:33:55.007901",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:48:45.303757",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:48:56.220476",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:49:05.697153",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:49:19.425461",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:49:33.641174",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:49:44.400658",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": null
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:50:48.573484",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:51:12.328875",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": 0
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:52:19.332650",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 0,
+      "nueva": 1000
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:52:28.192800",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 1000,
+      "nueva": 0
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:53:42.431407",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:53:48.198901",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 0,
+      "nueva": 0
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:55:47.786691",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 17:55:55.795737",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 0,
+      "nueva": 0
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:56:04.498415",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 0,
+      "nueva": 1000
+    }
+  }
+][
+  {
+    "date": "2026-11-11 17:56:11.817006",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 1000,
+      "nueva": 10
+    }
+  }
+][
+  {
+    "date": "2026-11-11 18:01:54.660392",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:02:10.145026",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:02:26.150172",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": 20
+    }
+  }
+][
+  {
+    "date": "2026-11-11 18:06:29.758082",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:27:39.438273",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:28:19.862417",
+    "usuario": "user",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:53:00.107992",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:53:12.613189",
+    "usuario": "",
+    "accion": "login",
+    "resultado": "fallido",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:53:22.180702",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:53:32.449590",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 20,
+      "nueva": 10
+    }
+  }
+][
+  {
+    "date": "2026-11-11 18:53:51.084282",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "fallido",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": "Entrada invalidad"
+    }
+  }
+][
+  {
+    "date": "2026-11-11 18:57:42.498409",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 18:57:51.152625",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "fallido",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "razon": "Entrada invalidad"
+    }
+  }
+][
+  {
+    "date": "2026-11-11 19:13:34.844745",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 19:16:34.546212",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 19:20:23.317852",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 19:21:00.515985",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 19:23:30.401066",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+]
