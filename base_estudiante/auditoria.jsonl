@@ -770,4 +770,24 @@
     "resultado": "exitoso",
     "detalles": {}
   }
+][
+  {
+    "date": "2026-11-11 20:09:46.697957",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 20:10:06.351643",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 10,
+      "nueva": 20
+    }
+  }
 ]
