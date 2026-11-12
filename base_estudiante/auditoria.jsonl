@@ -790,4 +790,24 @@
       "nueva": 20
     }
   }
+][
+  {
+    "date": "2026-11-11 20:28:13.430802",
+    "usuario": "admin",
+    "accion": "login",
+    "resultado": "exitoso",
+    "detalles": {}
+  }
+][
+  {
+    "date": "2026-11-11 20:28:25.080780",
+    "usuario": "admin",
+    "accion": "modificar",
+    "resultado": "exitoso",
+    "detalles": {
+      "producto": "P001",
+      "anterior": 20,
+      "nueva": 30
+    }
+  }
 ]
